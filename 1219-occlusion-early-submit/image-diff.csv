@@ -1,0 +1,6 @@
+shot,mad_on1_on2,mad_off_on1,mad_off_on2,note
+s11/shot-00,0.54471,0.475245,0.32036,
+s11/shot-01,0.889848,0.350009,0.813841,
+s11/shot-02,1.11276,0.321513,1.11043,
+light/shot-00,1.44696,0.479198,1.66345,
+s11 within-run off shot-00 vs shot-02,,,,0.531
